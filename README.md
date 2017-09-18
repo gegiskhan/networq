@@ -15,3 +15,12 @@
 * Create new branch to make your changes
 * Commit all your changes to your branch
 * Submit a [pull request](http://help.github.com/pull-requests/)
+
+_Some tips before making a pull request_
+
+Make sure that you've pulled the latest commits into your fork.
+Create a branch for your edits - that way the project maintainer can safely pull your code and test it out.
+If it's your first P.R, it'll be easier if you begin with something small first instead of making huge changes in lots of files. It helps me understand what the P.R is about, and I could help you out with the rest of changes if needed. It'll also save you from spending lot of effort in doing something that might not be necessary.
+An important thing to remember is to have a P.R that fixes one issue at a time, and not make changes to lot of files in the same P.R. This way it's easier to test the changes out and have a relatively clean commit log.
+You can learn more about these tips in detail here
+If you have any further queries that you may have on how to contribute, or you have just general questions about how to use the components in your app - feel free to shoot an email. I'll help you out! 😸
