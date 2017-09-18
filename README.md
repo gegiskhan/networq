@@ -7,6 +7,18 @@
 [![Chat on Gitter](https://badges.gitter.im/startversity/Lobby.svg)](https://gitter.im/startversity/Lobby)
 [![](https://img.shields.io/badge/license-GNU_GPLv3-green.svg)](https://www.tldrlegal.com/l/gpl-3.0)
 
+Description
+-----------
+
+Socialhome is best described as a federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS (if set as trusted user). All content can be pinned to the user profile and all content will federate to contacts in the federated social web. Currently federation happens using the [Diaspora protocol](https://diaspora.github.io/diaspora_federation/) with future plans to include at least [ActivityPub](https://www.w3.org/TR/activitypub/) as well. Federating using existing protocols means Socialhome users can interact with [tens of thousands](https://the-federation.info) of other users.
+
+Please check the official site for more information about features. Naturally, the official site is a Socialhome profile itself.
+
+Official site: [https://socialhome.network](https://socialhome.network).
+
+Documentation: http://socialhome.readthedocs.io/
+
+
 ## Contributing
 
 * Create something awesome, make the code better, add some functionality,
