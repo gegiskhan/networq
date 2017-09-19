@@ -10,13 +10,13 @@
 Description
 -----------
 
-Socialhome is best described as a federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS (if set as trusted user). All content can be pinned to the user profile and all content will federate to contacts in the federated social web. Currently federation happens using the [Diaspora protocol](https://diaspora.github.io/diaspora_federation/) with future plans to include at least [ActivityPub](https://www.w3.org/TR/activitypub/) as well. Federating using existing protocols means Socialhome users can interact with [tens of thousands](https://the-federation.info) of other users.
+Networq is described best as a personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will be distributed to contacts in the networq system. 
 
-Please check the official site for more information about features. Naturally, the official site is a Socialhome profile itself.
+Please come back to see the developments!
 
-Official site: [https://socialhome.network](https://socialhome.network).
+Official site: We are building it!
 
-Documentation: http://socialhome.readthedocs.io/
+[![Documentation Status](https://readthedocs.org/projects/networq/badge/?version=latest)](http://networq.readthedocs.io/en/latest/?badge=latest)
 
 
 ## Contributing
