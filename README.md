@@ -18,6 +18,21 @@ Official site: We are building it!
 
 [![Documentation Status](https://readthedocs.org/projects/networq/badge/?version=latest)](http://networq.readthedocs.io/en/latest/?badge=latest)
 
+## How to run the App in your local Computer Using the Code Content Editor.
+
+1. First type:
+```
+> git clone https://github.com/Startversity/networq/
+```
+2. Then `cd networq` and then : 
+```
+> npm install
+```
+3. Then run the following command:
+```
+> npm run dev
+```
+4. Open http://localhost:3000 in your browser. Done!
 
 ## Contributing
 
