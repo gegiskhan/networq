@@ -34,3 +34,8 @@ Official site: We are building it!
 - If it's your first P.R, it'll be easier if you begin with something small first instead of making huge changes in lots of files. It helps me understand what the P.R is about, and we could help you out with the rest of changes if needed. It'll also save you from spending lot of effort in doing something that might not be necessary.
 - An important thing to remember is to have a P.R that fixes one issue at a time, and not make changes to lot of files in the same P.R. This way it's easier to test the changes out and have a relatively clean commit log.
 - You can learn more about these tips in detail [here](https://guides.github.com/activities/contributing-to-open-source/#contributing)
+
+Source code
+-----------
+
+Networq is fully open source, licenced under the GNU.GPLv3 license.
